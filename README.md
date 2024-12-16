@@ -23,7 +23,7 @@
           <br/> 
          <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge">
          <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge">
-         <img src="	https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge">
+         <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge">
       </div>
    </div>
    <div style="text-align: left;">
